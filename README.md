@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**N-ik-ki/N-ik-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" alt="Pudgy Penguin" width="120" src="https://media.giphy.com/media/4yhNfLezOSuewJTVJg/giphy.gif">
 
-Here are some ideas to get you started:
+I’m a Data Engineer with around 3.5 years of experience building scalable ETL pipelines and data processing solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside Data Engineering, I’m keen to deepen my knowledge of Data Science and explore machine learning and AI-driven solutions. 
+
+Currently exploring advanced PySpark, Delta Lake, Azure Data Engineering, Data Science, and AI-powered data workflows.
+
+🎯 Career Focus
+
+* Building scalable data engineering solutions
+* Learning and Strengthening my Data Science and machine learning skills.
+* Continuously learning modern data technologies and best practices
